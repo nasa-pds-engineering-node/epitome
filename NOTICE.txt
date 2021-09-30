@@ -1,4 +1,4 @@
-PDS XYZ Tool (update licensing below per specific organization)
+Epitome
 
 Copyright 2021, California Institute of Technology ("Caltech").
 U.S. Government sponsorship acknowledged.
