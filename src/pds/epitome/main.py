@@ -10,7 +10,7 @@ def main():
 
     (Shut up, Flake8.)
     """
-    print("🎤 Is this thing on?")
+    print("🎤 Is this thing on? Yeah, I think this thing is on.")
 
 
 if __name__ == "__main__":
