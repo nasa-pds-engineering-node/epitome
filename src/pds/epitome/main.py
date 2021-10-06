@@ -11,6 +11,7 @@ def main():
     (Shut up, Flake8.)
     """
     print("🎤 Is this thing on? Yeah, I think this thing is on.")
+    print("We are pretty sure it is.")
 
 
 if __name__ == "__main__":
