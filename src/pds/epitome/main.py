@@ -12,7 +12,7 @@ def main():
     """
     print("🎤 Is this thing on? Yeah, I think this thing is on.")
     print("We are pretty sure it is.")
-    print('Stable again without "dev" tag maybe Wed Oct 13 23:16:23 UTC 2021')
+    print('Unstable again with "dev" tag maybe Wed Oct 13 23:30:45 UTC 2021')
 
 
 if __name__ == "__main__":
