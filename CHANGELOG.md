@@ -1,8 +1,8 @@
 # Changelog
 
-## [v1.6.1-dev](https://github.com/nasa-pds-engineering-node/epitome/tree/v1.6.1-dev) (2021-10-13)
+## [v1.7.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v1.7.0) (2021-10-13)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v1.6.0...v1.6.1-dev)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v1.6.0...v1.7.0)
 
 ## [v1.6.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v1.6.0) (2021-10-13)
 
