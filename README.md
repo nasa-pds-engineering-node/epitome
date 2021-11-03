@@ -1,5 +1,7 @@
 # 🪐 Epitome
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5643446.svg)](https://doi.org/10.5281/zenodo.5643446)
+
 This is a demonstration package that uses the PDS Python template repository.
 
 Please visit our website at: https://nasa-pds-engineering-node.github.io/epitome
