@@ -1,8 +1,3 @@
 {
-   "communities" : [
-      {
-         "identifier" : "nasa-pds-test"
-      }
-   ],
    "license" : "Apache-2.0"
 }
