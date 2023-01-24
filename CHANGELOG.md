@@ -6,27 +6,15 @@
 
 ## [v3.0.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.0.0) (2022-10-27)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/release/3.0.0...v3.0.0)
-
-## [release/3.0.0](https://github.com/nasa-pds-engineering-node/epitome/tree/release/3.0.0) (2022-10-24)
-
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.2.2...release/3.0.0)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.2.2...v3.0.0)
 
 ## [v2.2.2](https://github.com/nasa-pds-engineering-node/epitome/tree/v2.2.2) (2022-10-24)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/release/2.2.2...v2.2.2)
-
-## [release/2.2.2](https://github.com/nasa-pds-engineering-node/epitome/tree/release/2.2.2) (2022-08-30)
-
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.2.1...release/2.2.2)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.2.1...v2.2.2)
 
 ## [v2.2.1](https://github.com/nasa-pds-engineering-node/epitome/tree/v2.2.1) (2022-08-30)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/release/2.2.1...v2.2.1)
-
-## [release/2.2.1](https://github.com/nasa-pds-engineering-node/epitome/tree/release/2.2.1) (2022-08-30)
-
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.1.0...release/2.2.1)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v2.1.0...v2.2.1)
 
 ## [v2.1.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v2.1.0) (2022-04-21)
 
