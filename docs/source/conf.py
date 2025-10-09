@@ -36,7 +36,8 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.autosummary',
-    'sphinx_rtd_theme'
+    'sphinx_rtd_theme',
+    'sphinxcontrib.googleanalytics'  # To reproduce NASA-PDS/roundup-action#157
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -69,3 +70,7 @@ html_context = {
         '_static/theme_overrides.css',  # override wide tables in RTD theme
         ],
       }
+
+# To reproduce NASA-PDS/roundup-action#157
+googleanalytics_id = "G-ABCDEFG123"
+googleanalytics_enabled = True
