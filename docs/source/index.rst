@@ -1,7 +1,7 @@
 Overview
 ========
 
-Welcome to your PDS template package! Have Fun!
+This is "Epitome", an example package using the PDS Engineering Node's Python template_ repository for Python, and is also used for testing our CI/CD infrastructure.
 
 
 
@@ -15,3 +15,5 @@ Sitemap
     :caption: Support
 
     /support/*
+
+.. _template: https://github.com/NASA-PDS/template-repo-python
