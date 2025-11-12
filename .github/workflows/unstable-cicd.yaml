@@ -32,6 +32,7 @@ on:
     push:
         branches:
              - main
+             - develop
         paths-ignore:
             - 'CHANGELOG.md'
             - 'docs/requirements/**'
