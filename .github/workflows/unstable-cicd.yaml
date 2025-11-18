@@ -51,11 +51,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             -
-                name: 🌱 Environment
-                run: |
-                    echo "🌴 Here comes the environment"
-                    env
-            -
                 name: 💳 Checkout
                 uses: actions/checkout@v4
                 with:
