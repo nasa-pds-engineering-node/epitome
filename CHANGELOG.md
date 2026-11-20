@@ -1,8 +1,16 @@
 # Changelog
 
-## [release/3.24.0](https://github.com/nasa-pds-engineering-node/epitome/tree/release/3.24.0) (2025-11-19)
+## [release/3.5.0-rc.2](https://github.com/nasa-pds-engineering-node/epitome/tree/release/3.5.0-rc.2) (2026-11-20)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.23.0...release/3.24.0)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/release/3.5.0-rc.1...release/3.5.0-rc.2)
+
+## [release/3.5.0-rc.1](https://github.com/nasa-pds-engineering-node/epitome/tree/release/3.5.0-rc.1) (2026-11-20)
+
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.24.0...release/3.5.0-rc.1)
+
+## [v3.24.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.24.0) (2025-11-19)
+
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.23.0...v3.24.0)
 
 ## [v3.23.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.23.0) (2025-11-19)
 
@@ -14,15 +22,15 @@
 
 ## [v3.19.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.19.0) (2025-10-12)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.17.0...v3.19.0)
-
-## [v3.17.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.17.0) (2025-10-12)
-
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.18.0...v3.17.0)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.18.0...v3.19.0)
 
 ## [v3.18.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.18.0) (2025-10-12)
 
-[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.16.0...v3.18.0)
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.17.0...v3.18.0)
+
+## [v3.17.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.17.0) (2025-10-12)
+
+[Full Changelog](https://github.com/nasa-pds-engineering-node/epitome/compare/v3.16.0...v3.17.0)
 
 ## [v3.16.0](https://github.com/nasa-pds-engineering-node/epitome/tree/v3.16.0) (2025-10-09)
 
